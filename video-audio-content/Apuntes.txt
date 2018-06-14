@@ -1,0 +1,22 @@
+Las etiquetas para usar videos y elementos son <video> y <audio>
+
+<video>
+	PERMITE INCRUSTAR UN VIDEO EN UN DOCUMENTO HTML CON FACILIDAD
+
+Atributos
+---------
+
+* src
+	Contiene la ruta del video que se desea incrustar
+* controls
+	INCLUYE LA INTERFAZ DE CONTROL DEL NAVEGADOR O PUEDE INCLUIR UNA DEFINIDA POR EL USUARIO
+-autoplay
+-muted
+-width
+-height	
+loop
+Se puede incluir un parrafo en caso de que el navegador no reconozca el tipo de media que se le ha indicado. 
+
+Container formats.
+	SON LOS FORMATOS COMO MP3, MP4 and WebM
+
